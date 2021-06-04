@@ -78,5 +78,9 @@ const products = [
     numReviews: 12,
   },
 ]
-
+/* this es6 way to export */
 export default products
+
+/*
+module.exports = products; */
+
