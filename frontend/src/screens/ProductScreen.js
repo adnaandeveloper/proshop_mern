@@ -18,7 +18,7 @@ useEffect (() => {
     }
 
     fetchProduct()
-},[])
+},[match])
 
     return (
         <>
